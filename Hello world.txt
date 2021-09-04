@@ -1,7 +1,5 @@
 print("hello world")
-<<<<<<< HEAD
 print(""hello kitti)
 Print("Hello")
-=======
-print("hello kitti")
->>>>>>> feature/goodbye
+
+
