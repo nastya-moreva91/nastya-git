@@ -1,7 +1,0 @@
-print("hello world;")
-print("hello kitti;")
-Print("Hello;")
-print("Hello children;")
-print("Glad to sea you;")
-
-
